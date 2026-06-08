@@ -56,4 +56,8 @@ Interactive Pivot Tables and Charts
 - Enhance customer demand forecasting
 - Support strategic business decisions
 
+---
+## 📁 Project File
+The Excel dashboard is provided in **.xlsx** format to optimize file size and performance.
+
 
